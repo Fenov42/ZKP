@@ -1,0 +1,9 @@
+{
+  "public_key": "0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8",
+  "message": "66616b655f6d65646963616c5f7265636f7264",
+  "proof": {
+    "R": "0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8",
+    "s": "0x6afcff772912acd234bfad863946f8ede055eaf12255543327e900da1baeadcb"
+  },
+  "_note": "FAKE PROOF \u2014 random values, no secret key knowledge"
+}
